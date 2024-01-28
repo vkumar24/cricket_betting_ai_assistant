@@ -1,0 +1,37 @@
+						Privacy Policy for Cricket Betting AI Assistant
+
+Last Updated: 27/01/2024
+
+Welcome to Cricket Betting AI Assistant. This Privacy Policy outlines our commitment to protecting the privacy and handling of any personal information we collect from users. It explains how we collect, use, disclose, and safeguard your information when you use our AI Assistant.
+
+1. Agreement to the Policy
+By accessing and using our AI Assistant, you consent to the collection and use of your information in accordance with this Privacy Policy.
+
+2. Information Collection
+We may collect the following types of information:
+
+Personal Identification Information: This includes, but is not limited to, your name, email address, and any other contact details you provide.
+Betting Preferences and History: Information regarding your betting activities, preferences, and history.
+Usage Data: Information on how you interact with our AI Assistant, such as queries made, responses provided, and other usage metrics.
+Device Information: Information about the device you use to access our AI Assistant, including IP address, operating system, and browser type.
+3. Use of Information
+The information we collect may be used for the following purposes:
+
+To provide and improve our AI Assistant services.
+To personalize your experience and provide content and options that are relevant to your preferences.
+To communicate with you, respond to inquiries, and provide customer support.
+For data analysis, identifying usage trends, and improving our AI Assistant.
+4. Data Sharing and Disclosure
+We do not sell, trade, or rent your personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners and trusted affiliates.
+
+5. Data Security
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information.
+
+6. Children's Privacy
+Our AI Assistant is not intended for use by individuals under the age of 18. We do not knowingly collect personally identifiable information from children under 18.
+
+7. Changes to This Privacy Policy
+We reserve the right to update or change our Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page. Your continued use of the AI Assistant after any modifications will constitute your acknowledgment and agreement to the updated terms.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at [insert contact information].
